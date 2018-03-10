@@ -1,6 +1,6 @@
 ---
 title: Grady Nerio
-date: 2017-11-14 10:00:44 +0000
+date: 2017-11-14 10:00:44 Z
 role:
 - partner
 - board

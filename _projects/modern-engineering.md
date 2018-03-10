@@ -1,6 +1,6 @@
 ---
 title: Modern Engineering Textbook
-date: 2016-04-20 00:00:00 +0000
+date: 2016-04-20 00:00:00 Z
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'

@@ -1,6 +1,6 @@
 ---
 title: Portable EEG Montoring Device
-date: 2016-04-20 00:00:00 +0000
+date: 2016-04-20 00:00:00 Z
 categories: []
 description: A portable device for epileptic patients.
 banner_image: "/uploads/2018/02/17/neurons.jpg"

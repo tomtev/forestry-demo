@@ -1,6 +1,6 @@
 ---
 title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
+date: 2017-11-14 10:47:11 Z
 role:
 - advisor
 - staff

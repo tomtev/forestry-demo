@@ -1,6 +1,6 @@
 ---
 title: Martin Marino
-date: 2017-11-14 11:08:34 +0000
+date: 2017-11-14 11:08:34 Z
 role:
 - advisor
 - board

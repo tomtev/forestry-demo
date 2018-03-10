@@ -1,6 +1,6 @@
 ---
 title: Charlize Babatunde
-date: 2017-11-14 10:54:31 +0000
+date: 2017-11-14 10:54:31 Z
 role:
 - staff
 thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
